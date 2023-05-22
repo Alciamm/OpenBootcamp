@@ -1,0 +1,20 @@
+
+.boton {
+    width: 150px;
+    height: 50px;
+    background-color: gray;
+}
+
+.boton:hover { /* Se activa cuando el raton pasa por encima */
+    background-color:green;
+}
+
+.boton:hover::after {
+    content: "¡Hecho!";
+    color: white;
+}
+
+.boton::after {
+    content: "Pasa por encima";
+    color: white;
+}
