@@ -1,0 +1,11 @@
+.p-contenedor {
+    color: mediumpurple;
+}
+
+section.main .contenedor p {
+    color: mediumpurple;
+}
+
+.contenedor #boton-contenedor {
+    background-color: aquamarine;
+}

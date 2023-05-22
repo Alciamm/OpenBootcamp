@@ -1,0 +1,32 @@
+h1 {
+    color: darkmagenta;
+}
+
+/* purecss.io */
+p {
+    color: darkgreen;
+    font-size: 16pt;
+}
+
+#primera-noticia {
+    color: green;
+    font-size: 12pt;
+}
+
+#segunda-noticia {
+    color: purple;
+    font-size: 10pt;
+}
+
+.encabezado {
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+*.warning {
+    color: red;
+}
+
+.autor, .fecha, .ubicacion {
+    text-decoration: underline;
+}
