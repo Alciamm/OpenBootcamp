@@ -1,0 +1,11 @@
+
+.row div {
+    padding: 2rem;
+}
+
+.item {
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
